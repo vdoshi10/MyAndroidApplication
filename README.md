@@ -1,1 +1,1 @@
-MyAndroidApplication for ToDO list
+MyAndroidApplication for ToDo list
